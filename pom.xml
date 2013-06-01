@@ -6,6 +6,22 @@
     <artifactId>RemedyAlarm</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <packaging>ejb</packaging>
+    <developers>
+        <developer>
+            <name>Alexandre Campos Hermida</name>
+            <email>achermida@gmail.com</email>
+            <id>achermidabr</id>
+        </developer>
+    </developers>
+    <licenses>
+        <license>
+            <name>GNU GENERAL PUBLIC LICENSE version 3</name>
+            <url>http://www.gnu.org/licenses/gpl.html</url>
+        </license>
+    </licenses>
+    <description>
+        Simple JEE 6 application that uses nice techs such as EJB 3.1, WebSockets and HTML5
+    </description>
 
     <name>RemedyAlarm</name>
 
